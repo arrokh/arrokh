@@ -4,7 +4,7 @@ I am a Software Engineer with 4-years of professional experience who loves to ex
 
 ### Connect with me:
 
-- [Personal Website](https://alvin.vercel.app/)
+- [Website](https://alvin.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/noor-octavian-anwar-alvin)
 - [Youtube](https://www.youtube.com/c/NoorOctavianAnwar/)
 
