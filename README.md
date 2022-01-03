@@ -2,6 +2,12 @@
 
 I am a Software Engineer with 4-years of professional experience who loves to experiment with crafting tech-based solutions and share with others my learning process. Currently, I am maintaining NEMU, a visual programming environment web-app, to assist people in learning fundamental programming concepts. Outside my work, I participate in various events held by the university, government institution, and tech community to present talks and workshops on software development and startups topics.
 
+### Connect with me:
+
+- [Personal Website](https://alvin.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/noor-octavian-anwar-alvin)
+- [Youtube](https://www.youtube.com/c/NoorOctavianAnwar/)
+
 <!--
 **arrokh/arrokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
