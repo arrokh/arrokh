@@ -7,7 +7,7 @@ I am a Software Engineer who loves to experiment with crafting tech-based soluti
 - [Website](https://alvin.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/noor-octavian-anwar-alvin)
 - [Youtube](https://www.youtube.com/c/NoorOctavianAnwar/)
-- [My Resume](https://arrokh.github.io/resume.md/)
+<!-- - [My Resume](https://arrokh.github.io/resume.md/) -->
 
 <!--
 **arrokh/arrokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
