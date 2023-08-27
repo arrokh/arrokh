@@ -4,9 +4,9 @@ I am a Software Engineer who loves to experiment with crafting tech-based soluti
 
 ### Connect with me:
 
-- [Website](https://alvin.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/noor-octavian-anwar-alvin)
-- [Youtube](https://www.youtube.com/c/NoorOctavianAnwar/)
+- [alvin.vercel.app](https://alvin.vercel.app/)
+- [linkedin.com/in/noor-octavian-anwar-alvin](https://www.linkedin.com/in/noor-octavian-anwar-alvin)
+- [youtube.com/c/NoorOctavianAnwar](https://www.youtube.com/c/NoorOctavianAnwar/)
 <!-- - [My Resume](https://arrokh.github.io/resume.md/) -->
 
 <!--
